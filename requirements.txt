@@ -1,0 +1,5 @@
+numpy==1.18.5
+scipy==1.4.1  
+soundfile==0.10.3.post1
+numba==0.48
+librosa==0.6.3
